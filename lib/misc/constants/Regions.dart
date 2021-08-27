@@ -1,0 +1,22 @@
+const String GRAD_ZAGREB = "Grad Zagreb";
+const String ZAGREBACKA = "Zagrebačka";
+const String KRAPINSKO_ZAGORSKA = "Krapinsko-zagorska";
+const String SISACKO_MOSLOVACKA = "Sisačko-moslavačka";
+const String KARLOVACKA = "Karlovačka";
+const String VARAZDINSKA = "Varaždinska";
+const String KOPRIVNICKO_KRIZEVACKA = "Koprivničko- križevačka";
+const String BJELOVARSKO_BILOGORSKA = "Bjelovarsko-bilogorska";
+const String PRIMORSKO_GORANSKA = "Primorsko-goranska";
+const String LICKO_SENJSKA = "Ličko-senjska";
+const String VIROVITICKO_PODRAVSKA = "Virovitičko-podravska";
+const String POZESKO_SLAVONSKA = "Požeško-slavonska";
+const String BRODSKO_POSAVSKA = "Brodsko-posavska";
+const String ZADARSKA = "Zadarska";
+const String OSJECKO_BARANJSKA = "Osječko-baranjska";
+const String SIBENSKO_KNINSKA = "Šibensko-kninska";
+const String VUKOVARSKO_SRIJEMSKA = "Vukovarsko-srijemska";
+const String SPLITSKO_DALMATINSKA = "Splitsko-dalmatinska";
+const String ISTARSKA = "Istarska";
+const String DUBROVACKO_NERETVANSKA = "Dubrovačko-neretvanska";
+const String MEDIMURSKA = "Međimurska";
+
